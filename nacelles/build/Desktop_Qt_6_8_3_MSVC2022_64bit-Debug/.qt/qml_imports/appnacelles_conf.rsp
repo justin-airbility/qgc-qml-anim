@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/Minyoung_SIM/Documents/nacelles
+-cmake-output
+-output-file
+C:/Users/Minyoung_SIM/Documents/nacelles/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/.qt/qml_imports/appnacelles_conf.cmake
+-importPath
+C:/Users/Minyoung_SIM/Documents/nacelles/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/nacelles
+-importPath
+C:/Users/Minyoung_SIM/Documents/nacelles/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug
+-importPath
+C:/Qt/6.8.3/msvc2022_64/qml
+-qrcFiles
+C:/Users/Minyoung_SIM/Documents/nacelles/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/.qt/rcc/qmake_nacelles.qrc
+C:/Users/Minyoung_SIM/Documents/nacelles/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/.qt/rcc/appnacelles_raw_qml_0.qrc

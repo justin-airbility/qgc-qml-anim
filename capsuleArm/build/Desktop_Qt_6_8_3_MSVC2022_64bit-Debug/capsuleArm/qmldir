@@ -1,0 +1,5 @@
+module capsuleArm
+typeinfo appcapsuleArm.qmltypes
+prefer :/qt/qml/capsuleArm/
+Main 1.0 Main.qml
+

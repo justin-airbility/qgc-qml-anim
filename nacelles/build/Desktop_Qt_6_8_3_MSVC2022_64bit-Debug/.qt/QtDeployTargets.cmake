@@ -1,0 +1,3 @@
+set(__QT_DEPLOY_TARGET_appnacelles_FILE C:/Users/Minyoung_SIM/Documents/nacelles/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/appnacelles.exe)
+set(__QT_DEPLOY_TARGET_appnacelles_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_appnacelles_RUNTIME_DLLS C:/Qt/6.8.3/msvc2022_64/bin/Qt6Quickd.dll;C:/Qt/6.8.3/msvc2022_64/bin/Qt6QmlMetad.dll;C:/Qt/6.8.3/msvc2022_64/bin/Qt6QmlWorkerScriptd.dll;C:/Qt/6.8.3/msvc2022_64/bin/Qt6QmlModelsd.dll;C:/Qt/6.8.3/msvc2022_64/bin/Qt6Qmld.dll;C:/Qt/6.8.3/msvc2022_64/bin/Qt6Networkd.dll;C:/Qt/6.8.3/msvc2022_64/bin/Qt6OpenGLd.dll;C:/Qt/6.8.3/msvc2022_64/bin/Qt6Guid.dll;C:/Qt/6.8.3/msvc2022_64/bin/Qt6Cored.dll)

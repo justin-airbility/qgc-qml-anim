@@ -1,0 +1,36 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot access value for name tilt1",
+                        "functionName": "onTriggered",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 109,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 20,
+                        "errorMessage": "Cannot access value for name model",
+                        "functionName": "angle",
+                        "line": 35
+                    }
+                ],
+                "filepath": "C:/Users/Minyoung_SIM/Documents/nacelles/TiltrotorMock.qml"
+            }
+        ],
+        "moduleId": "nacelles(appnacelles)"
+    }
+]
